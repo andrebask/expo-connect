@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ExpoConnect</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">Info</string>
+    <string name="title_section2">Map</string>
+    <string name="title_section3">Photos</string>
+    <string name="title_activity_start">ExpoConnect</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="connectionProgress">Connecting&#8230;</string>
+    <string name="searchProgress">Searching the screen&#8230;</string>
+    <string name="ScreenMACAddr">88:53:2e:7c:3f:e4</string>
+    <string name="title_activity_data_from_screen">DataFromScreen</string>
+    <string name="title_activity_recommender">Restaurant Details</string>
+    <string name="title_activity_restaurant_list">Restaurants</string>
+
+</resources>
