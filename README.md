@@ -11,6 +11,6 @@ A mobile application was also developed to let the users download the recommenda
 
 ### The Mobile Application hosted in this repository
 
-The server application receives a JSON string from large-screen application. The string is received by a console command, translated in the right format and then sended by wifi direct.
+The server application receives a JSON string from large-screen application. The string is received by a console command, translated in the right format and then sent by wifi direct.
 
 The client application receives the JSON string, send the request to the server and then download a list of restaurants to visualize.
